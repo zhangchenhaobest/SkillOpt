@@ -1,3 +1,29 @@
+# SkillOpt
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+通过轨迹驱动编辑与验证门控，为冻结 LLM Agent 训练可复用自然语言技能的文本空间优化器。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # SkillOpt: Executive Strategy for Self-Evolving Agent Skills
 
 *Train agent skills like you train neural networks — with epochs, (mini-)batchsize, learning rates, and validation gates — but without touching model weights.*
